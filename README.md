@@ -1,6 +1,6 @@
 # ERA-SESSION27
 
-🤗[**Space Link**]
+HF link - https://huggingface.co/spaces/Navyabhat/ERAV1-SESSION-27
 
 
 
